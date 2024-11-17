@@ -1,14 +1,14 @@
-# Getting Archived as of 1/22/24.
+# Stuff
 
 For more info, browse down.
 
-# Hell
+# Stuff
 
 Tired of games and searching being blocked?
 
 Then use Hell! With over 260+ unblocked games and even a working ultraviolet proxy, bypassing has never been so much easier. It has almost everything you would want in a game site! 
 
-# Why hell?
+# Why Stuff?
 
 - Over 260 games 
 - Easy to navigate
@@ -23,7 +23,6 @@ Then use Hell! With over 260+ unblocked games and even a working ultraviolet pro
 ## Links / Mirrors
 
 
-[All links in instances will go down soon. New link in description.](https://instances.d3ch.repl.co)
 
 Did you make a link and would like to share it? Post it [here!](https://forms.gle/gwxTCDRzZQRo5toH7)
 
@@ -44,18 +43,3 @@ proxy source - tiw (source code) titanium network, and ultraviolet. tomp.app for
 code - VS code, GitHub, and CodePen (frontend).
 
 inspiration - 3kh0 and interstellar
-
-support - all of you!
-
-# Bottom Page
-
-I'm not leaving forever, but this project will get archived. If you use any of the code, please credit me or the original owners.
-
-This was a massive learning experience for me. I'm thankful for everyone who supported me along the way and still use this project. 
-
-This won't officially get archived, since I might add a bit of code here and there. But I will stop working on this for the long run.
-
-Again, thank you everyone for everything. All of you are way more than I could ever ask for. It was nice working on this project, 
-
-- dachxd
-
